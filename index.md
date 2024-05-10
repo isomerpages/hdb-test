@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: "A guide to the features of your new bto flat "
+      title: A guide to the features of your new bto flat
       subtitle: Move into your flat
       background: /images/download.jpg
       button: Read Article
