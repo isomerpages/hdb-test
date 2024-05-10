@@ -7,10 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: "A guide to the features of your new bto flat "
+      subtitle: Move into your flat
       background: /images/download.jpg
-      button: Contact Us
+      button: Read Article
       url: /contact-us/
       key_highlights:
         - title: Highlight A
