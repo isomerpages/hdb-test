@@ -1,8 +1,14 @@
 logo: /images/mynicehome_logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About My Town
+    url: /about-my-town
+  - title: Around My Home
+    url: /around-my-home
+  - title: Virtual Flat Tour
+    url: https://assets.hdb.gov.sg/community/bishan_ridges/index.html
+  - title: Moving and Renovating My Flat
+    url: /moving-into-renovating-myflat
+  - title: Living In My New Home
+    url: /living-in-my-new-home
+  - title: About My Community
+    url: /about-my-community
